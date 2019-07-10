@@ -1,0 +1,71 @@
+h1{
+    border: solid;
+    text-align: center;
+}
+
+ul {
+    border: solid;
+    text-align: center;
+}
+
+li{
+    text-align: center;
+    display: inline-block;
+    padding: 1%
+}
+
+button {
+    position: absolute;
+    left: 75%;
+    border: solid;
+    top: 45%;
+    width: 8%
+}
+
+h4 {
+    text-align: center;
+}
+
+#sect {
+    border: solid;
+}
+
+#content {
+    font-size: 16px;
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    text-align: right;
+    height: 25%;
+    width: 25%;
+}
+
+img {
+    height: 350px;
+    border: solid;
+    margin: 1%
+}
+
+/* body {
+    margin: 10px;
+    padding: 10px;
+} */
+
+#news, #test, #sale {
+    text-align: justify;
+    overflow: scroll;
+    height: 150px;
+    width: 415px;
+    display: inline-block;
+    border: solid;
+    padding: 10px;
+    margin: 1%
+    
+    
+}
+
+footer {
+    text-align: center;
+    border: solid;
+    margin: 1%
+}
